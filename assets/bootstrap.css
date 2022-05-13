@@ -36,6 +36,11 @@
      .h2{
          font-size:50px ;
          margin-bottom: 100px ;
+         font-family: 'Playfair Display';
+        font-style: normal;
+       font-weight: 700;
+       font-size: 60px;
+       line-height: 64px;
      }
 
      .button_costum2{
@@ -52,25 +57,24 @@
          background-color: #2F2E41 ; 
         color:#FFFFFF ;
      }
-     .card_body{
-         width: 900px;
-         height: 296;
-     }
+    
+     
      .card_costum{ 
          width: 800px;
          height: 230px;
          background-color: #2F2E41;
         color: #FFFFFF;
         border-radius: 2px;
-    
-
-     }
+     margin-left: 250px;
+       
+    }
      .h3{
         font-family: 'Playfair Display';
         font-style: normal;
         font-weight: 700;
         font-size: 40px;
         line-height: 45px;
+
      }
 
      .section{ background-color: #ECEBFF;
@@ -82,6 +86,15 @@
          background-color: #ECEBFF ;
         align-items: center;
 
+     }
+     .align-items-endrow{
+         margin-top: 300px;
+     }
+     .row_contact{
+         margin-top: 200px;
+     }
+     .mb-10{
+         margin-bottom: 0px;
      }
       
       
