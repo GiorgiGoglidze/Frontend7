@@ -1,0 +1,91 @@
+.button_costum{
+   background-color:#6C63FF; 
+   border: 1px solid;
+   border-radius: 2px;
+   width: 140px;
+   height: 51px;
+}
+
+.p-1{
+    width: 300px;
+}
+.card1{
+    background-color: #ECEBFF;
+    width: 310px;
+    height: 400px;
+    border-color: #6C63FF;
+    align-items: center;
+}
+.card1:hover{
+   height: 450px;
+   width: 350px;
+   background-color: #6C63FF;
+   border-radius: 2px;
+
+   
+}
+
+.button_costum1 {
+    border: 1px solid;
+    border-radius: 2px;
+    border-color: #6C63FF;
+    width: 140px;
+    height: 51px;
+ }
+
+     .h2{
+         font-size:50px ;
+         margin-bottom: 100px ;
+     }
+
+     .button_costum2{
+        border: 1px solid;
+        border-radius: 2px;
+        border-color: #6C63FF;
+        width: 115px;
+        height: 51px;
+
+    }
+        
+
+     .card-2{
+         background-color: #2F2E41 ; 
+        color:#FFFFFF ;
+     }
+     .card_body{
+         width: 900px;
+         height: 296;
+     }
+     .card_costum{ 
+         width: 800px;
+         height: 230px;
+         background-color: #2F2E41;
+        color: #FFFFFF;
+        border-radius: 2px;
+    
+
+     }
+     .h3{
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 45px;
+     }
+
+     .section{ background-color: #ECEBFF;
+
+     }
+     .color{
+         width:1320 px;
+         height: 500px;;
+         background-color: #ECEBFF ;
+        align-items: center;
+
+     }
+      
+      
+    
+
+
+
